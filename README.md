@@ -10,7 +10,7 @@ Image caption Generator is a popular research area of Artificial Intelligence th
 And from this point we decide to help people with disabilities as well as early childhood education By doing image caption English and Arabic and transformed to voice using artificial intelligence technology so, their lives can be improved.
 
 ## Table of Content
-- [Project Proposal](https://github.com/amal2121/NLP_Unsupervised_Learning/blob/main/Project%20Proposal.md)
+- [Project Proposal]()
 
 
 ## By:
