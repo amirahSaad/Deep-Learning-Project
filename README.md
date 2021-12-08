@@ -1,7 +1,7 @@
 ## SDAIA Academy Bootcamp T5 | Deep Learning Project
 
 
-![WhatsApp Image 2021-12-06 at 7 11 02 PM](https://user-images.githubusercontent.com/90132938/144891254-daec245d-84fc-4467-aa14-0aec490b1079.jpeg)
+![logo.png](https://user-images.githubusercontent.com/90132938/144891254-daec245d-84fc-4467-aa14-0aec490b1079.jpeg)
 
 
 ## Introduction
