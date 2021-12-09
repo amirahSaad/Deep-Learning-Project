@@ -8,6 +8,8 @@
 
 Image caption Generator is a popular research area of Artificial Intelligence that deals with image understanding and a language description for that image. Automatic generation of an image description requires both computer vision and natural language processing techniques.
 And from this point we decide to help people with disabilities as well as early childhood education By doing image caption English and Arabic and transformed to voice using artificial intelligence technology so, their lives can be improved.
+## Presentation
+https://prezi.com/p/edit/_sjxppfq4wrw/
 
 ## Table of Content
 - [Project Proposal](https://github.com/NoBaSh-DS/Deep-Learning-Project/blob/main/DeepLearning-Proposel.pdf)
