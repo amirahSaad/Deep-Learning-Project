@@ -8,14 +8,23 @@
 
 Image caption Generator is a popular research area of Artificial Intelligence that deals with image understanding and a language description for that image. Automatic generation of an image description requires both computer vision and natural language processing techniques.
 And from this point we decide to help people with disabilities as well as early childhood education By doing image caption English and Arabic and transformed to voice using artificial intelligence technology so, their lives can be improved.
+
 ## Presentation
+
 https://prezi.com/p/edit/_sjxppfq4wrw/
 
+
 ## Table of Content
+
 - [Project Proposal](https://github.com/NoBaSh-DS/Deep-Learning-Project/blob/main/DeepLearning-Proposel.pdf)
+- [Image caption in English ](https://github.com/NoBaSh-DS/Deep-Learning-Project/blob/main/Image-Captioning-English%20.ipynb)
+- [Image caption in Arabic](https://github.com/NoBaSh-DS/Deep-Learning-Project/blob/main/image-captioning-Arabic.ipynb)
+- [Project Report](https://github.com/NoBaSh-DS/Deep-Learning-Project/blob/main/deeplearning-Report.pdf)
+- [Project Presentation slides](https://prezi.com/p/edit/_sjxppfq4wrw/)
 
 
 ## By:
+
 - [Amirah Alotaibi](https://github.com/amirahSaad)
 - [Alanoud Alhussain](https://github.com/Alanoud-Aziz)
 - [Amal Altamran](https://github.com/amal2121)
