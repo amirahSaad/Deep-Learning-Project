@@ -20,7 +20,7 @@ https://prezi.com/p/edit/_sjxppfq4wrw/
 - [Image caption in English ](https://github.com/NoBaSh-DS/Deep-Learning-Project/blob/main/Image-Captioning-English%20.ipynb)
 - [Image caption in Arabic](https://github.com/NoBaSh-DS/Deep-Learning-Project/blob/main/image-captioning-Arabic.ipynb)
 - [Project Report](https://github.com/NoBaSh-DS/Deep-Learning-Project/blob/main/deeplearning-Report.pdf)
-- [Project Presentation slides](https://prezi.com/p/edit/_sjxppfq4wrw/)
+- [Project Presentation slides](https://github.com/amirahSaad/Deep-Learning-Project/blob/main/Image%20Caption.pdf)
 
 
 ## By:
